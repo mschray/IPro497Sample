@@ -23,7 +23,7 @@ Please provide two problem statements.  They are the same problem but take two p
 ## Top Application Capabilities (name at least 5)
 
 ## Top Two to Three Scenarios
-[see sample scenarios at](https://github.com/mschray/IPro497Sample/blob/main/ScenarioExample.md)
+[see sample scenarios](https://github.com/mschray/IPro497Sample/blob/main/ScenarioExample.md)
 
 ### Your Scenario #1
 ### Your Scenario #2
