@@ -8,6 +8,7 @@ Please provide two problem statements.  They are the same problem but take two p
 ### Description
 
 ### Customer Persona (with demopgraphics and sychographics)
+[See personas example](https://github.com/mschray/IPro497Sample/blob/main/Personas%20Example.md)
 
 ### Other customer(s) or stakeholder(s)
 
