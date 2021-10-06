@@ -29,7 +29,7 @@ Please provide two problem statements.  They are the same problem but take two p
 ### Your Scenario #2
 ### Your Scenario #3
 
-##Team Members
+## Team Members
 Please create a table for the details below 
 
 Name	Location	Time zone offset from Chicago (Chicago is 0 offset)
