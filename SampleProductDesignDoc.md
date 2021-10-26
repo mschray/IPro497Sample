@@ -151,7 +151,7 @@ We will use Github for version control. Team-members will push their finished co
 
 If we need to meet outside of class we have found a mutually agreeable time at:
 
-[https://www.when2meet.com/?12788487-DxPin](https://www.when2meet.com/?12788487-DxPin)
+[https://www.when2meet.com/?12788487-XXXXX](https://www.when2meet.com/?12788487-XXXXX)
 
 If we need to meet outside of class we will use the following tool/tech for meetings:
 
@@ -160,7 +160,7 @@ If we need to meet outside of class we will use the following tool/tech for meet
 When we are not meeting together we will use the following tool/tech for communications:
 
 - Discord
-- [https://discord.gg/TRfzzETB](https://discord.gg/TRfzzETB)
+- [https://discord.gg/TRfzzETBZZZZZ](https://discord.gg/TRfzzETBZZZZZ)
 
 We will communicate respectfully in a professional manner. Discussions only. No arguing/name calling of any kind. Respect the ideas of each team member.
 
