@@ -147,21 +147,21 @@ James has a team project and needs to meet with his 4 teammates outside of class
 
 ## **Team Working Agreement**
 
-We will use Github for version control. Team-members will push their finished code to a branch to ensure the main branch remains bug-free.
+- We will use Github for version control. Team-members will push their finished code to a branch to ensure the main branch remains bug-free.
 
-If we need to meet outside of class we have found a mutually agreeable time at:
+- If we need to meet outside of class we have found a mutually agreeable time at:
 
-[https://www.when2meet.com/?12788487-XXXXX](https://www.when2meet.com/?12788487-XXXXX)
+  - [https://www.when2meet.com/?12788487-XXXXX](https://www.when2meet.com/?12788487-XXXXX)
 
-If we need to meet outside of class we will use the following tool/tech for meetings:
+- If we need to meet outside of class we will use the following tool/tech for meetings:
 
-- Google Cal &amp; Google Meet
+  - Google Cal &amp; Google Meet
 
-When we are not meeting together we will use the following tool/tech for communications:
+- When we are not meeting together we will use the following tool/tech for communications:
 
-- Discord
-- [https://discord.gg/TRfzzETBZZZZZ](https://discord.gg/TRfzzETBZZZZZ)
+  - Discord
+    - [https://discord.gg/TRfzzETBZZZZZ](https://discord.gg/TRfzzETBZZZZZ)
 
-We will communicate respectfully in a professional manner. Discussions only. No arguing/name calling of any kind. Respect the ideas of each team member.
+- We will communicate respectfully in a professional manner. Discussions only. No arguing/name calling of any kind. Respect the ideas of each team member.
 
-We will divide work fairly. Each member will be responsible for the work they choose to be assigned to (based on their skillset). Each member should be assigned to one or more stories on the Kanban board.
+- We will divide work fairly. Each member will be responsible for the work they choose to be assigned to (based on their skillset). Each member should be assigned to one or more stories on the Kanban board.
