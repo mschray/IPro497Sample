@@ -64,7 +64,7 @@ Occupation: Undergrad/Grad Student
   - Provide online booking function
 - Optional: Seats can be automatically allocated according to management needs
 
-##Other Customers and Stakeholders##
+## Other Customers and Stakeholders ##
 
 - School Administration, Cleaning and Maintenance Staff, Campus Security, IT Administrators.
 
