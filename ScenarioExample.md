@@ -1,6 +1,0 @@
-## Top Two to Three Scenarios
-### Scenario #1 (example - to be deleated)
-Our hero us Bob is a busy student and wants to maximize his time to study and have fun, but also needs to have clean clothes to wear.  When Bob heads to the dorm laundry he sees there is a sign and QR code for laundry minion.   He downloads the laundry minion app and scans the QR code for the washing machine.  He adds funds to laundry minion and uses the app to pay for the load from his phone and start the washer.  Bob heads back to study location and get notifications when his laundry is 10 minutes, 5 minutes and finally one minute from done.  No more finding his clothes strew all over the place or standing around waiting for loads to finish.
-### Scenario #2 (example - to be deleated)
-Bob pops his clothes in the dry and scans the dryer QR code with Laundry minion.  He adds funds to his laundry minion card and pays for the dryer.  Laundry minion tells him and when his clothes are 10 minutes, 5 minutes and 1 minute and tells IF the clothes are dry.  If they are not dry, Bob can remotely add more dryer cycles to dry his clothes.  No more finding his clothes strew all over the place or standing around waiting for loads to finish.
-
