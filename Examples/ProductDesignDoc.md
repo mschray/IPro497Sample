@@ -8,7 +8,7 @@ Please provide two problem statements.  They are the same problem but take two p
 ### Description
 
 ### Customer Persona (with demopgraphics and sychographics)
-[See personas example](https://github.com/mschray/IPro497Sample/blob/main/Personas%20Example.md)
+[See personas example](https://github.com/mschray/IPro497Sample/blob/main/Examples/Personas%20Example.md)
 
 ### Other customer(s) or stakeholder(s)
 
@@ -23,7 +23,7 @@ Please provide two problem statements.  They are the same problem but take two p
 ## Top Application Capabilities (name at least 5)
 
 ## Top Two to Three Scenarios
-[see sample scenarios](https://github.com/mschray/IPro497Sample/blob/main/ScenarioExample.md)
+[see sample scenarios](https://github.com/mschray/IPro497Sample/blob/main/Examples/ScenarioExample.md)
 
 ### Your Scenario #1
 ### Your Scenario #2
