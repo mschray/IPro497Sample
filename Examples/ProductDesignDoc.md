@@ -43,3 +43,23 @@ Name	Location	Time zone offset from Chicago (Chicago is 0 offset)
   - item 1
   - ...
 
+## Sprint Schedule
+
+| Week | Sprint Leader |
+| --------  | ------------------- |
+| 1 - Problem Framing                                 | Team member #1              |
+| 2 - Problem Framing                                 | Team member #1             |
+| 3 - Problem Framing                                 | Team member #2|
+| 4 - Problem Framing                                 | Team member #2|
+| 5 - Think, build, test, and demo for midterm        | Team member #3 |
+| 6 - Think, build, test, and demo for midterm        | Team member #3 |
+| 7 - Think, build, test, and demo for midterm        | Team member #4|
+| 8 - Think, build, test, and demo for midterm        | Team member #4|
+| 9 - Spring Break                                    | N/A               |
+| 10 - Think, build, test, and demo for final	      |  Team member #5      |
+| 11 - Think, build, test, and demo for final         | Team member #5          |
+| 12 - Think, build, test, and demo for final         | Team member #1          |
+| 13 - Presentation dry run                           | Team member #1   |
+| 14 - Presentation                                   | Team member #2|
+
+
