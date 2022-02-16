@@ -30,9 +30,10 @@ Please provide two problem statements.  They are the same problem but take two p
 Please create a table for the details below 
 
 Name	Location	Time zone offset from Chicago (Chicago is 0 offset)
-		
-		
-		
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
 ## Team Working Agreement
 - We will use Github and keep items updated as progress is made
