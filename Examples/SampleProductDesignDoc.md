@@ -88,10 +88,10 @@ James has a team project and needs to meet with his 4 teammates outside of class
 
 | **Name** | **Location** | **Time zone offset from Chicago (Chicago is 0 offset)** |
 | --- | --- | --- |
-| Eric Zacarias | Chicago,IL (Off Campus, Commuter) | 0 |
-| Hannah Leland | Chicago, IL (Off Campus, Online) | 0 |
-| Sameer Rangoonwala | Chicago, IL (Office Campus, Online) | 0 |
-| Xiyuan Song | Shanghai China (Off Campus Online) | +13h |
+| Eric Smith | Chicago,IL (Off Campus, Commuter) | 0 |
+| Hannah Jones | Chicago, IL (Off Campus, Online) | 0 |
+| Sameer Johnson | Chicago, IL (Office Campus, Online) | 0 |
+| Xiyuan Brown | Shanghai China (Off Campus Online) | +13h |
 
 ## **Team Working Agreement**
 
