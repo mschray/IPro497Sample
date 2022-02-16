@@ -10,59 +10,7 @@ IIT students need study spaces, but there is no way to know where spaces are ava
 
 College students who need to study on campus
 
-### **Customer Demographic**
-
-Ages: 18-30
-
 Occupation: Undergrad/Grad Student
-
-### **Customer Personas**
-
-#### Persona 1
-
-**Name:** Austin Brown
-
-**Background:**
-
-- Co-Terminal Computer Science Student @ IIT
-- On Campus
-- Past Summer Internship @ Accenture
-
-**Demographics:**
-
-- Age: 20
-
-**Goal:** Efficiently find/reserve a study space on campus.
-
-**How we can help** :
-
-- Provide a platform that allows students to book study spaces on campus
-  - Real-time update of the occupancy of the seats or study room
-  - Provide online booking function
-- Optional: Seats can be automatically allocated according to management needs
-
-#### Persona 2
-
-**Name:** Maria Rodríguez
-
-**Background:**
-
-- Graduate Biological Engineering Student @ IIT
-- Commuter
-- Research assistant @ IIT. Working part-time as a nanny.
-
-**Demographics:**
-
-- Age: 23
-
-**Goal:** Ensure a place to sit while waiting between classes.
-
-**How we can help** :
-
-- Provide a platform that allows students to book study spaces on campus
-  - Real-time update of the occupancy of the seats or study room
-  - Provide online booking function
-- Optional: Seats can be automatically allocated according to management needs
 
 ## Other Customers and Stakeholders ##
 
@@ -165,3 +113,23 @@ James has a team project and needs to meet with his 4 teammates outside of class
 - We will communicate respectfully in a professional manner. Discussions only. No arguing/name calling of any kind. Respect the ideas of each team member.
 
 - We will divide work fairly. Each member will be responsible for the work they choose to be assigned to (based on their skillset). Each member should be assigned to one or more stories on the Kanban board.
+
+## Sprint Schedule
+
+| Week | Sprint Leader |
+| --------  | ------------------- |
+| 1 - Problem Framing                                 | Team member #1              |
+| 2 - Problem Framing                                 | Team member #1             |
+| 3 - Problem Framing                                 | Team member #2|
+| 4 - Problem Framing                                 | Team member #2|
+| 5 - Think, build, test, and demo for midterm        | Team member #3 |
+| 6 - Think, build, test, and demo for midterm        | Team member #3 |
+| 7 - Think, build, test, and demo for midterm        | Team member #4|
+| 8 - Think, build, test, and demo for midterm        | Team member #4|
+| 9 - Spring Break                                    | N/A               |
+| 10 - Think, build, test, and demo for final	      |  Team member #5      |
+| 11 - Think, build, test, and demo for final         | Team member #5          |
+| 12 - Think, build, test, and demo for final         | Team member #1          |
+| 13 - Presentation dry run                           | Team member #1   |
+| 14 - Presentation                                   | Team member #2|
+
