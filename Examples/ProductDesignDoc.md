@@ -35,7 +35,7 @@ Please create a table for the details below
 | --- | --- | --- |
 | --- | --- | --- |
 
-## Team Working Agreement
+## Team Working Agreement (All team members)
 ### What do we want to accomplish/learn together?
 
 ### Tools
@@ -51,8 +51,10 @@ Please create a table for the details below
 - We will divide work fairly. Each member will be responsible for the work they choose to be assigned to (based on their skillset). Each member should be assigned to one or more stories on the Kanban board.
 
 ### Unacceptable behavior
+...
 
-### How do we productively solve disagreement
+### How will we productively solve disagreement
+...
 
 ## Sprint Schedule
 
