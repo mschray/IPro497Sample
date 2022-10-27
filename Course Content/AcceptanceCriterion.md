@@ -40,4 +40,4 @@ But you should have the big basics:
 
 ### Student example #2
 
-![Student example #2](./images/AcceptanceCriteriaExample2.jpg)
+![Student example #2](../images/AcceptanceCriteriaExample2.jpg)
