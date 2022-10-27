@@ -36,7 +36,7 @@ But you should have the big basics:
 
 ### Student example #1
 
-![Student example #1](./images/AcceptanceCriteriaExample1.jpg)
+![Student example #1](../images/AcceptanceCriteriaExample1.jpg)
 
 ### Student example #2
 
